@@ -1,6 +1,6 @@
-# Mess Management Platform for IIIT LUCKNOW
+# Mess Management Platform
 
-This platform is tailored for IIIT LUCKNOW to streamline mess management by providing distinct interfaces for mess supervisors and students. It offers efficient tools for managing daily operations and a user-friendly interface for meal selection and purchasing.
+This platform is made to streamline mess management by providing distinct interfaces for mess supervisors and students. It offers efficient tools for managing daily operations and a user-friendly interface for meal selection and purchasing.
 
 ## For MESS SUPERVISORS
 
