@@ -32,7 +32,3 @@ The student interface is designed to deliver a seamless and intuitive experience
 - **Unified QR Code System:**  
   Utilize a single, static QR code in lieu of traditional paper coupons; the option to regenerate the QR code is available in case of security concerns.
 
-- **QR Code Scanning and Validation:**  
-  Supervisors can verify meal coupons with an integrated QR code scanning feature. Valid codes are confirmed with a check mark, while invalid or already redeemed codes are indicated with a cross.  
-  A “Scan New” functionality facilitates uninterrupted scanning of successive codes.  
-  ![](/assets/scan_qr.png)
